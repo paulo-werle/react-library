@@ -3,7 +3,10 @@
   "version": "0.0.1",
   "private": false,
   "publishConfig": {
-    "@paulo-werle:registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "repository": {
+    "url": "git@github.com:paulo-werle/react-library.git"
   },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
