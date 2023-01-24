@@ -1,14 +1,7 @@
 {
   "name": "@paulo-werle/react-library",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "private": false,
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:paulo-werle/react-library.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/paulo-werle"
-  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
