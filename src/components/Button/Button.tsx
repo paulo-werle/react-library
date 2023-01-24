@@ -2,7 +2,7 @@ import React from 'react';
 
 const Button = () => {
   const handleClick = () => {
-    console.log('Clicado');
+    console.log('Button - handleClick');
   };
 
   return <button onClick={handleClick}>Botão</button>;
