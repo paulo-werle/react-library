@@ -132,7 +132,7 @@ Agora iremos adicionar ao `package.json` as seguintes opções:
 
 ```bash
 "scripts": {
-  "rollup": "rollup -c"
+  "build": "rollup -c"
 },
 "main": "dist/cjs/index.js",
 "module": "dist/esm/index.js",

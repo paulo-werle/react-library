@@ -1,6 +1,6 @@
 {
   "name": "@paulo-werle/react-library",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "private": false,
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "rollup": "rollup -c",
+    "build": "rollup -c",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook"
   },
